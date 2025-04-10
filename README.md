@@ -3,7 +3,7 @@ Loving technology and source code, of course.
 I'm really passionate about discovering and diving into new tech trends.
 
 ### 🔭 My daily works and skills
-I work with Microsoft tech on a daily basis and I'm familiar with both development and management tools.
+I am responsible for planning, developing, and managing software solutions, primarily working with the following technology stack:
 
 - Backend: ASP.NET Core 8.0
 - Frontend: React, Blazor
