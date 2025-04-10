@@ -7,13 +7,12 @@ I work with Microsoft tech on a daily basis and I'm familiar with both developme
 
 - Backend: ASP.NET Core 8.0
 - Frontend: React, Blazor
-- Cloud: Azure
-- DevOps: Github, Azure
-- Mobile: Android, Xamarin
+- DevOps: Github, Azure DevOps, Docker
+- Mobile: Android, .NET MAUI
 
 ### ⚡My side gigs
+- [Buoni Sul Serio](https://buonisulserio.it/): We support and encourage trade in the businesses of our town.
 - [Wamoo](https://www.wamoo.app/): The only platform you will need whilst organising the best party of your life: your wedding!
-- [Clusu](https://www.clusu.com/): We support and encourage trade in the businesses of our town.
   
 ### 🌱 My current learning
 - Bitcoin
